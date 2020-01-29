@@ -21,6 +21,7 @@ Event: Touch
 
 2: The Intimacy dress 2.0
 
+https://www.studioroosegaarde.net/project/intimacy
 https://www.youtube.com/watch?v=5TLRER3GFAs
 
 Data: temp
