@@ -4,19 +4,13 @@ Deconstruction
 
 https://www.youtube.com/watch?v=Lljf3C0KzH0
 
-Data: Pressure/ touch sensors
-      conductive fabric 
-      Wifi 
+| Data | Render | Simulation | Event |
+|   :---:                   |     :---:                           |     :---:        |     :---: |
+| Pressure/ touch sensors   |   Heat map of pressure intencity    | Heat Map         | Touch     |
+| conductive fabric         | Map of dress image                  | Live Feed back   | Intencity of touch |
+| wifi                      |                                     |                  | Where touched|
 
-Render: Heat map of pressure intencity 
-        Map of dress image
 
-Simulation: Heat map
-            Live Feed back
-
-Event: Touch
-       Intencity of touch
-       Where touched
 
 
 2: The Intimacy dress 2.0
@@ -24,11 +18,9 @@ Event: Touch
 https://www.studioroosegaarde.net/project/intimacy
 https://www.youtube.com/watch?v=5TLRER3GFAs
 
-Data: temp
-      heart rate
+| Data | Render | Simulation | Event |
+|   :---:     |     :---:      |     :---:      |   :---:   |
+|  Temp       |                |                | E-foils change color|
+| heart rate  |                |                |   |
 
-Render: None
 
-Simulation: None
-
-Event: E-foils change color
